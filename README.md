@@ -1,1 +1,1 @@
-# Earthquake-Physics-Machine-Learning
+# Earthquake-Physics-Machine-Learning⛰️
