@@ -109,8 +109,9 @@ Model performance is assessed on a held-out test set using:
 ---
 ## 🔗 Project Materials
 
-- 📓 **Code (Jupyter Notebooks)**  
-  👉 [View notebooks](./notebooks)
+- 📓 **Code (Colab Notebook)**  
+  👉 [View notebook](./Earthquake-Physics-Machine-Learning/notebook
+/eqxml_project.ipynb)
 
 - 📊 **Presentation (PowerPoint)**  
   👉 [Download slides](./presentation/Pollino_ML_Presentation.pptx)
