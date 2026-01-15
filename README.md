@@ -1,5 +1,13 @@
 # 🌍 Machine Learning to Extract Regime Information from the Pollino Seismic Catalog
 
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+**Author**: Mariagiusi Nicodemo  
+**Email**: nicodemo.2114171@studenti.uniroma1.it  
+**Course**: Earthquake Physics \& Machine Learning (a.y. 2025/2026) — Sapienza University of Rome
+
+
 This repository contains the code, data processing pipeline, and documentation for a final project developed within the course **Earthquake Physics & Machine Learning**.
 
 The project investigates whether temporal patterns in real seismic catalogs can be exploited to probabilistically classify short-term seismic activity regimes using supervised machine learning techniques.
