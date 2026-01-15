@@ -113,7 +113,7 @@ Model performance is assessed on a held-out test set using:
   👉 [View notebook](./notebook/eqxml_project.ipynb)
 
 - 📊 **Presentation (PowerPoint)**  
-  👉 [Download slides](./presentation/Pollino_ML_Presentation.pptx)
+  👉 [View slides](./presentation/presentation_project.pdf)
 
 - 📄 **Final Report (PDF)**  
   👉 [Read the report](./paper/Final_Report.pdf)
