@@ -116,7 +116,7 @@ Model performance is assessed on a held-out test set using:
   👉 [Download slides](./presentation/Pollino_ML_Presentation.pptx)
 
 - 📄 **Final Report (PDF)**  
-  👉 [Read the report](./report/Final_Report.pdf)
+  👉 [Read the report](./paper/Final_Report.pdf)
 ---
 
 ## ❗ Disclaimer
