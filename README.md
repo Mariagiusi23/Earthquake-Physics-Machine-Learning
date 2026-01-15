@@ -113,16 +113,3 @@ Model performance is assessed on a held-out test set using:
 This project does **not** aim to provide deterministic earthquake predictions.  
 All results should be interpreted as **probabilistic and exploratory**, consistent with the intrinsic uncertainty of seismic processes.
 
----
-
-## 👤 Author
-
-**Mariagiusi Nicodemo**  
-🎓 Degree Course in Mathematical Sciences for Artificial Intelligence  
-
----
-
-## 🙏 Acknowledgements
-
-This work was developed as part of the course *Earthquake Physics & Machine Learning*.
-
