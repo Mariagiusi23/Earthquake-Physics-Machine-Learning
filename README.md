@@ -107,6 +107,17 @@ Model performance is assessed on a held-out test set using:
 
 
 ---
+## 🔗 Project Materials
+
+- 📓 **Code (Jupyter Notebooks)**  
+  👉 [View notebooks](./notebooks)
+
+- 📊 **Presentation (PowerPoint)**  
+  👉 [Download slides](./presentation/Pollino_ML_Presentation.pptx)
+
+- 📄 **Final Report (PDF)**  
+  👉 [Read the report](./report/Final_Report.pdf)
+---
 
 ## ❗ Disclaimer
 
