@@ -1,4 +1,4 @@
-# 🌍 Machine Learning to Extract Regime Information from the Pollino Seismic Catalog
+# 🌍 Machine Learning to Extract Predictive Information from the Pollino Seismic Catalog
 
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
