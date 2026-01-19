@@ -110,13 +110,13 @@ Model performance is assessed on a held-out test set using:
 ## 🔗 Project Materials
 
 - 📓 **Code (Colab Notebook)**  
-  👉 [View notebook](./notebook/eqxml_project.ipynb)
+  👉 [View notebook](./notebook/eqxml_project_Pollino.ipynb)
 
 - 📊 **Presentation (PowerPoint)**  
   👉 [View slides](./presentation/presentation_project.pdf)
 
 - 📄 **Final Report (PDF)**  
-  👉 [Read the report](./paper/Final_Report.pdf)
+  👉 [Read the report](./paper/Final_Report_Pollino.pdf)
 ---
 
 ## ❗ Disclaimer
